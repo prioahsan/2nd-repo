@@ -1,0 +1,149 @@
+.text_align{
+    text-align: center;
+  }
+  .banner-img{  
+    margin: 0; 
+    width: 100vw;
+    height: 100vh;
+    margin: 0%;
+    position: relative; 
+    background-image: url(donation7.jpg);
+    background-size: cover;
+    color: white;
+    opacity: .8;
+  }
+  .banner-text{
+    color: #fff;
+    position: absolute;
+    font-size: 25px;
+    padding: 120px 50px;
+  }
+  .button_color{
+      
+    color: white;
+    border: none;
+    background-color: tomato;
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 5px;
+  }
+  .button {
+      background-color: rgb(235, 235, 235);
+      margin: 10px;
+      padding: 40px 25px;
+      border: none;
+      border-radius: 5px;
+      text-decoration: none;
+      font-size: 15px;
+      text-align: center;
+      display: inline-block;
+      font-size: 16px;
+      transition-duration: 0.4s;
+      cursor: pointer;
+    }
+    
+    .button1 {
+      background-color: rgb(235, 235, 235); 
+      color: black; 
+    }
+    
+    .button1:hover {
+      background-color: #f1abab7a;
+      border: 2px red solid;
+      
+    }
+    .button2 {
+      background-color: #3458f5e8; 
+      color: white;
+      padding: 10px 40px;
+      border-radius: 5px;
+    }
+    input[type=text] {
+      width: 45%;
+      padding: 10px 20px;
+      margin: 8px 0;
+      box-sizing: border-box;
+      border: none;
+      border-bottom: 2px solid rgb(235, 235, 235);
+    }
+    span.a {
+      display: inline-block;
+      width: 300px;
+      height: 300px;
+      padding: 40px 20px;
+      border: none;  
+      border-radius: 5px;  
+      margin: 10px;
+      background-color: #dbe2e2; 
+    }
+    span.b {
+      display: inline-block;
+      width: 300px;
+      height: 300px;
+      padding: 40px 20px;
+      border: none;
+      border-radius: 5px;   
+      margin: 10px; 
+      background-color: rgb(256,236,236); 
+    }
+    span.c {
+      display: inline-block;
+      width: 300px;
+      height: 300px;
+      padding: 40px 20px ;
+      border: none; 
+      border-radius: 5px; 
+      margin: 10px;   
+      background-color: #ffcc92e1; 
+    }
+    .text_left{
+      text-align: left;
+    }
+    .text_color1{
+      color: #ff6262;
+    }
+    .text_color2{
+      color: #dbe2e2;
+  }
+  .footer_color{
+      background-color: #100c14;
+      margin: 0;
+      padding: 50px;
+  }
+  .display{
+      display: flex;
+      padding: 60px 200px;
+  }
+  input[type=email] {
+    background-color: lightgray;
+    width: 25%;
+    padding: 10px 20px;
+    margin: 10px 0px 10px 10px;
+    box-sizing: border-box;
+    border: 1px solid lightgray;
+    border-radius: 10px 0px 0px 10px;
+  }
+  .button3{
+    background-color: tomato;
+    text-decoration: none;
+    text-align: center;
+    margin: 0;
+    border: none;
+    margin: 10px 10px 10px 0px;
+    padding: 10px 20px;
+    border-radius: 0px 10px 10px 0px;
+  }
+  span.extra{
+    padding: 80px 180px;
+    background-color: #ffdbaca1;
+    width: 700px;
+    
+  }
+  .display{
+    display: flex;
+  }
+  .margin1{margin: 30px;}
+  .margin2{margin-top: 80px;}
+  .text_style1{
+    font-family: Segoe Print;
+  }
